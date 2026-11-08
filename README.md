@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there 👋 I'm Mohammad Awwad
 
-<!--
-**Engmhmd6/Engmhmd6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student  
+📍 Palestine  
+💻 Interested in  AI, and Computer Engineering.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Computer Engineering student at Palestine Polytechnic University.
+- Interested in Artificial Intelligence and RAG systems.
+- Always learning and building new projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Artificial Intelligence
+- RAG 
+
+## 🎯 Current Goals
+- Improve my programming skills.
+- Build practical AI projects.
+- Contribute to open-source projects.
+
+---
+⭐ Thanks for visiting my profile!
